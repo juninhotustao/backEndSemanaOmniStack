@@ -1,0 +1,8 @@
+- Instalar pacotes de icones
+npm install react-icons
+
+- Instalar pacote de rotas
+npm install react-router-dom
+
+- Instalar client http
+npm install axios
