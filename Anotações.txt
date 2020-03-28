@@ -1,3 +1,4 @@
+** REACT WEB **
 - Instalar pacotes de icones
 npm install react-icons
 
@@ -6,3 +7,36 @@ npm install react-router-dom
 
 - Instalar client http
 npm install axios
+
+** REACT MOBILE **
+
+- Instalar pacotes aplicativo
+npm install -g expo-cli
+expo init mobile
+
+Documentação expo
+https://docs.expo.io/versions/latest/
+
+
+- Trabalhar com rotas
+npm install @react-navigation/native
+
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+- Abrir servidor
+expo start
+
+- Tipo de tela(navegação)
+npm install @react-navigation/stack
+
+-
+expo install expo-constants
+
+-Abrir email
+expo install expo-mail-composer
+
+- Instalar client http
+npm install axios
+
+-Conversão de números e outros
+npm install intl
